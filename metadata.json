@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Multi-Modal Suite",
+  "description": "An advanced, all-in-one AI playground showcasing the power of Gemini 3 and 2.5. Explore real-time voice conversations, high-fidelity image and video generation, and intelligent search-grounded chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
